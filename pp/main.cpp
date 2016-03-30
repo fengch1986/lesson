@@ -8,12 +8,12 @@
 #include <netdb.h>  
 #include <fcntl.h>  
   
-int create_socket(char *port)  
+sadfsdaffdsdu9043333333333
 {  
-    struct addrinfo hint, *result;  
+    struct addrinfo hint, *result;  fdsafds
     int res, fd, flags;  
   
-    memset(&hint, 0, sizeof(struct addrinfo));  
+    memset(&hint, 0, sizeof(struct addrinfo));  sdaf
     hint.ai_family = AF_INET;  
     hint.ai_socktype = SOCK_STREAM;  
   
