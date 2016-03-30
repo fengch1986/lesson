@@ -29,8 +29,7 @@ sadfsdaffdsdu9043333333333
     if (res == -1)  
         goto err;  
   
-    // ���÷�����  
-    flags = fcntl(fd, F_GETFL);  
+sadfasdf
     flags |= O_NONBLOCK;               
     flags = fcntl(fd, F_SETFL, flags);  
     if (flags == -1)  
